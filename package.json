@@ -1,0 +1,22 @@
+{
+  "name": "webinos-pack-wrap",
+  "version": "0.9.0",
+  "author": "Martin Lasak <martin.lasak@fokus.fraunhofer.de>",
+  "description": "The webinos platform. Specific deployment Android, including PZP and WRT and certain set of APIs",
+  "contributors": [
+  ],
+  "homepage": "http://www.webinos.org",
+  "bugs": "http://jira.webinos.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mlasak/webinos-pack-wrap.git"
+  },
+  "directories": {
+  },
+  "dependencies":{
+    "webinos-pzp": "git://github.com/webinos/webinos-pzp.git",
+    "webinos-widget": "git://github.com/webinos/webinos-widget.git",
+    "webinos-android": "git://github.com/webinos/webinos-android.git",
+    "webinos-api-mediacontent": "https://github.com/webinos/webinos-api-mediaContent.git"
+  }
+}
