@@ -17,6 +17,6 @@
     "webinos-pzp": "git://github.com/webinos/webinos-pzp.git",
     "webinos-widget": "git://github.com/webinos/webinos-widget.git",
     "webinos-android": "git://github.com/webinos/webinos-android.git",
-    "webinos-api-mediacontent": "https://github.com/webinos/webinos-api-mediaContent.git"
+    "webinos-api-mediacontent": "git://github.com/webinos/webinos-api-mediaContent.git"
   }
 }
