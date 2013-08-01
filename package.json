@@ -14,6 +14,7 @@
   "directories": {
   },
   "dependencies":{
+    "webinos-jsonrpc2": "git://github.com/webinos/webinos-jsonrpc2.git",
     "webinos-pzp": "git://github.com/webinos/webinos-pzp.git",
     "webinos-widget": "git://github.com/webinos/webinos-widget.git",
     "webinos-android": "git://github.com/webinos/webinos-android.git",
